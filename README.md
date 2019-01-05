@@ -16,5 +16,9 @@ i just changed some code. ;)
 
 EVERYTHING IN THIS VERSION WORKS!!
 
+To get it to work put libvHook.dylib in a new folder after you build it, 
+then put bootstrap.dylib and osxinj in the same folder, after you have done that put that folder on the desktop of your mac,
+open terminal and type "cd desktop" then "cd YOURFOLDERNAME" finally type "sudo ./osxinj csgo_osx64 libvHook.dylib"
+bootstrap and osxinj can be found in the root of Cyanide-Master
 - Manigamer22
 - Breadstick
